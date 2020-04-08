@@ -1,0 +1,18 @@
+-----------------------------READ ME-----------------------------------
+THINGS TO INSTALL BEFORE PROGRAM EXECUTION:
+1.TQDM - pip install tqdm
+2.PLAYSOUN - pip install playsound
+
+
+1.OPEN THE MAIN.PY TO RUN THE PROGRAM.
+2.PLEASE DO OPEN IN CMD FOR BEST EXPERIENCE
+
+LOGIN DETAILS:
+USERNAME:asrith4444
+PASSWORD:asrith
+You can also SignUp.
+
+Features:
+TO KNOW THE FEATURES OF KEEPY:
+ASK 'WHAT CAN YOU DO' OR 'GAMES'
+YOU CAN ALSO ASK THE TIME 
